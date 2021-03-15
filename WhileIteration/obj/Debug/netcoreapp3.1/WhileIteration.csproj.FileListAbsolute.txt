@@ -1,0 +1,13 @@
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.exe
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.deps.json
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.json
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.dev.json
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.dll
+C:\practise\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csprojAssemblyReference.cache
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfoInputs.cache
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfo.cs
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csproj.CoreCompileInputs.cache
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.dll
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\practise\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.genruntimeconfig.cache
