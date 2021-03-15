@@ -1,0 +1,13 @@
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.exe
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.deps.json
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.runtimeconfig.json
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.runtimeconfig.dev.json
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.dll
+C:\practise\SimpleMethod\bin\Debug\netcoreapp3.1\SimpleMethod.pdb
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.csprojAssemblyReference.cache
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.AssemblyInfoInputs.cache
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.AssemblyInfo.cs
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.dll
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.pdb
+C:\practise\SimpleMethod\obj\Debug\netcoreapp3.1\SimpleMethod.genruntimeconfig.cache
