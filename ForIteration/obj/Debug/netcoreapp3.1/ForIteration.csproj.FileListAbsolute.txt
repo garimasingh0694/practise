@@ -1,0 +1,13 @@
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csprojAssemblyReference.cache
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfoInputs.cache
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfo.cs
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csproj.CoreCompileInputs.cache
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.exe
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.deps.json
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.json
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.dev.json
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.dll
+C:\practise\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.pdb
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.dll
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.pdb
+C:\practise\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.genruntimeconfig.cache
