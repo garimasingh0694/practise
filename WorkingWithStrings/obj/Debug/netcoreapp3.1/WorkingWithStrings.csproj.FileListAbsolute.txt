@@ -1,0 +1,13 @@
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.exe
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.deps.json
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.json
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.dev.json
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\practise\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csprojAssemblyReference.cache
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfo.cs
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\practise\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.genruntimeconfig.cache
