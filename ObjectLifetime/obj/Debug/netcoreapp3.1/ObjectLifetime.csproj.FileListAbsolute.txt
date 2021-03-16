@@ -1,0 +1,13 @@
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.csprojAssemblyReference.cache
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.AssemblyInfoInputs.cache
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.AssemblyInfo.cs
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.exe
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.deps.json
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.runtimeconfig.json
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.runtimeconfig.dev.json
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.dll
+C:\practise\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.pdb
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.dll
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.pdb
+C:\practise\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.genruntimeconfig.cache
