@@ -1,0 +1,13 @@
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.exe
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.deps.json
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.runtimeconfig.json
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.runtimeconfig.dev.json
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.dll
+C:\practise\SimpleClasses\bin\Debug\netcoreapp3.1\SimpleClasses.pdb
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.AssemblyInfoInputs.cache
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.AssemblyInfo.cs
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.dll
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.pdb
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.genruntimeconfig.cache
+C:\practise\SimpleClasses\obj\Debug\netcoreapp3.1\SimpleClasses.csprojAssemblyReference.cache
